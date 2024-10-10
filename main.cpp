@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	string age;
 
 	cout << "Please input your age: ";
